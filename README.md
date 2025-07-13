@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a **bash script** that lists resources for common AWS services in your AWS account.  
+This is a **Shell script** that lists resources for common AWS services in your AWS account.  
 It helps you quickly check what you have running in a specific region for services like EC2, S3, RDS, VPC, Lambda, and more.
 
 ---
